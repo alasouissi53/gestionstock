@@ -1,0 +1,2 @@
+bienvenu sur la gestion de stock pour le service chimie de albemarle port de bouc (FRANCE)
+Cet utilitaire a etait developpée par Mr Cagnacci cyril Apprenti ingénieur en automatisme industriel
